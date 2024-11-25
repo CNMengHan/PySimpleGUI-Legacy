@@ -53,11 +53,7 @@ As a result, the only way to access a fully functional version is through a save
 
 ### **1. Download the Legacy Version**
 
-- **Clone this repository** or **download the `PySimpleGUI.7z` file** from the [Releases](https://github.com/your-username/PySimpleGUI-Legacy/releases) section.
-
-```bash
-git clone https://github.com/your-username/PySimpleGUI-Legacy.git
-```
+- **Download the `PySimpleGUI.7z` file** from the [Releases](https://github.com/CNMengHan/PySimpleGUI-Legacy/releases/tag/v4.60.4) section.
 
 ### **2. Extract the Files**
 
