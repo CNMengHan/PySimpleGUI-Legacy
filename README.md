@@ -1,5 +1,6 @@
-# PySimpleGUI-Legacy
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png" alt="User Interfaces for Humans">
+</p>
 This repository provides a functional, pre-license version of the **PySimpleGUI** library for developers who need a free and unrestricted solution. The official PySimpleGUI library has recently transitioned to a paid license model, leaving many developers unable to access or use the library. This backup allows you to continue using the legacy version without any license requirements.
 
 ---
